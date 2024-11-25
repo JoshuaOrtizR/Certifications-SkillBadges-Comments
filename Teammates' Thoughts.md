@@ -1,3 +1,4 @@
+## Teammates' Thoughts
 
 > **From: Wendy Villalbos**
 - **Position: Bussiness Analyst Senior (RSM USE-El Salvador)**
