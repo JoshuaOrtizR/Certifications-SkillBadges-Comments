@@ -15,3 +15,10 @@ explained on what is needed to complete the project. Your interpersonal skills a
 
 ##
 
+> **From: Ashley Burke**
+- **Position: Corp Comms Project Sr Associate (RSM US-LLP Florida 2024)**
+  -  Congratulations CrowdStrike Incident Response Team!
+  - Joshua Your team received a 2024 First-Choice Advisor Team Award.
+In FY24, you and your team not only earned high performance descriptors but was also one of only four teams to earn a First-Choice Advisor Award this year. We were impressed with all the nominations received but yours, stood out.
+Thank you for all that you do for the firm, your clients and your colleagues. You are truly a first-choice advisor.
+
