@@ -22,3 +22,8 @@ explained on what is needed to complete the project. Your interpersonal skills a
 In FY24, you and your team not only earned high performance descriptors but was also one of only four teams to earn a First-Choice Advisor Award this year. We were impressed with all the nominations received but yours, stood out.
 Thank you for all that you do for the firm, your clients and your colleagues. You are truly a first-choice advisor.
 
+##
+
+> **From: Lisa Reuder**
+- **Position: Project Manager (RSM US-LLP Florida 2024)**
+  -  Thank you for your contribution to the Workstation Software Lifecycle Management project, Joshua. Your participation in the project was instrumental in building the framework for streamlined and efficient processes for managing software requests, approvals, removal of unapproved software, and patching of approved software for ISO users. Thank you for making this project a success!
