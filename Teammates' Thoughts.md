@@ -12,7 +12,7 @@
 ##
 
 > **From: Rene Castillo**
-- **Position: IT Infrastructure Manager (RSM USA-LLP San Antonio, TX 2025)**
+- **Position: IT Infrastructure Manager (RSM USA-El Salvador 2025)**
   - I've seen some of your tickets reporting vulnerabilities to other teams, nothing but good things to say.
 
    -  Regarding areas of development, I would encourage you to look for additional certifications and learning opportunities like you're doing with the Trainee Program.
