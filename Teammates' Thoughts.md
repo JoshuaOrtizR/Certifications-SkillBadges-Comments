@@ -21,12 +21,12 @@
 ##
 
 > **From: Oscar A. Martinez**
-- **Position: Cybersecurity Administration Engineer (RSM USE- El Salvador 2025)**
+- **Position: Cybersecurity Administration Engineer Snr (RSM USE- El Salvador 2025)**
   - Your growing this FY was fantastic and I dare you to keep growing in knowledge and cybersecurity expertise, you are doing a fantastic job this FY.
 ##
     
 > **From: Jennifer Bebber**
-- **Position: Cybersecurity Administration Engineer (RSM USA-LLP Davenport , IA 2025)**
+- **Position: Cybersecurity Administration Engineer Snr (RSM USA-LLP Davenport , IA 2025)**
   - Joshua has worked really hard to grow into his role working with vulnerabilities and has taken on more responsibilities in this area. His work with Tenable and crafting the threat alerts for the firm are timely and well written. Joshua is a great team member and is willing to help out anywhere he can.
 ##
 
