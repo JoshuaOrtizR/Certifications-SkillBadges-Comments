@@ -1,10 +1,33 @@
 ## Teammates' Thoughts
-
 > **From: Tricia Mansfield**
 - **Position: Cyber Incident Response Analyst (RSM US- Seattle 2025)**
   - Over the past year, I’ve had the privilege of working closely with Joshua, and I can confidently say he exemplifies the core values of Caring, Curious, Collaborative, Courageous, and a Critical Thinker in every aspect of his work. He consistently keeps me informed about the latest vulnerabilities, often ahead of broader announcements, which reflects not only his technical expertise but also his strong sense of responsibility to others.
 
   - He responds to questions with clarity and timeliness, ensuring that communication remains seamless and productive. He regularly brings new ideas to the table that improve processes, and he’s not afraid to challenge the status quo when it leads to better outcomes. Most importantly, he fosters a true sense of partnership—I don’t feel like I’m working with his team; I feel like I’m part of it. His support, mindset, and approach to collaboration have made a lasting impact on how we work together and solve problems as a unit.
+##
+
+> **From: Luis Lopez**
+- **Position: Cybersecurity Administration Engineer (RSM USA-LLP San Antonio, TX 2025)**
+  - Joshua continues to communicate and provide helpful information as vulnerabilities occur daily. Keep up the great work.
+##
+
+> **From: Rene Castillo**
+- **Position: IT Infrastructure Manager (RSM USA-LLP San Antonio, TX 2025)**
+  - I've seen some of your tickets reporting vulnerabilities to other teams, nothing but good things to say.
+
+   -  Regarding areas of development, I would encourage you to look for additional certifications and learning opportunities like you're doing with the Trainee Program.
+
+   -  Keep on the good work and Learning!   
+##
+
+> **From: Oscar A. Martinez**
+- **Position: Cybersecurity Administration Engineer (RSM USE- El Salvador 2025)**
+  - Your growing this FY was fantastic and I dare you to keep growing in knowledge and cybersecurity expertise, you are doing a fantastic job this FY.
+##
+    
+> **From: Jennifer Bebber**
+- **Position: Cybersecurity Administration Engineer (RSM USA-LLP Davenport , IA 2025)**
+  - Joshua has worked really hard to grow into his role working with vulnerabilities and has taken on more responsibilities in this area. His work with Tenable and crafting the threat alerts for the firm are timely and well written. Joshua is a great team member and is willing to help out anywhere he can.
 ##
 
 > **From: Wendy Villalobos**
