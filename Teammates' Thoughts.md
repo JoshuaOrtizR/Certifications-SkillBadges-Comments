@@ -14,7 +14,7 @@
 > **From: Rene Castillo**
 - **Position: IT Infrastructure Manager (RSM El Salvador Office | 2025)**
   - I've seen some of your tickets reporting vulnerabilities to other teams, nothing but good things to say.
-o	Keep up the fantastic work with your after-hours learning and certifications – it's definitely paying off and we've noticed!
+Keep up the fantastic work with your after-hours learning and certifications – it's definitely paying off and we've noticed!
   
 ##
 
